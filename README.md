@@ -4,7 +4,7 @@ Este proyecto es un videojuego de rol (RPG) diseñado para navegadores, centrado
 
 ## 🚀 Aspectos Técnicos y Deployment
 A diferencia de los proyectos convencionales de motores de juegos, este repositorio demuestra habilidades de integración y publicación web:
-* [cite_start]**Core:** Basado en **JavaScript** para la lógica de eventos, gestión de variables y manipulación de datos[cite: 5].
+* **Core:** Basado en **JavaScript** para la lógica de eventos, gestión de variables y manipulación de datos.
 * **Deployment:** Pipeline de despliegue continuo configurado en **Vercel** para asegurar alta disponibilidad y accesibilidad web.
 * **Optimización:** Adaptación de recursos multimedia y scripts para minimizar tiempos de carga en entornos de navegador.
 
@@ -18,6 +18,6 @@ A diferencia de los proyectos convencionales de motores de juegos, este reposito
 2. Ejecuta un servidor local (ej. Live Server de VS Code) y abre el archivo `index.html`.
 
 ---
-[cite_start]**Desarrollador:** [Edwin Aliaga Yujra](https://www.linkedin.com/in/edwin-aliaga-yujra) [cite: 1, 2, 206]
-[cite_start]**Institución:** Universidad Mayor de San Andrés (UMSA) [cite: 10, 16]
-[cite_start]**Contexto:** Proyecto de innovación en desarrollo web y diseño de sistemas informáticos[cite: 3, 7, 9].
+**Desarrollador:** [Edwin Aliaga Yujra](https://www.linkedin.com/in/edwin-aliaga-yujra)
+**Institución:** Universidad Mayor de San Andrés (UMSA)
+**Contexto:** Proyecto de innovación en desarrollo web y diseño de sistemas informáticos.
