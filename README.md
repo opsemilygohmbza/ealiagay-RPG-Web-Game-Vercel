@@ -18,6 +18,6 @@ A diferencia de los proyectos convencionales de motores de juegos, este reposito
 2. Ejecuta un servidor local (ej. Live Server de VS Code) y abre el archivo `index.html`.
 
 ---
-**Desarrollador:** [Edwin Aliaga Yujra](https://www.linkedin.com/in/edwin-aliaga-yujra)
-**Institución:** Universidad Mayor de San Andrés (UMSA)
-**Contexto:** Proyecto de innovación en desarrollo web y diseño de sistemas informáticos.
+* **Desarrollador:** [Edwin Aliaga Yujra](https://www.linkedin.com/in/edwin-aliaga-yujra)
+* **Institución:** Universidad Mayor de San Andrés (UMSA)
+* **Contexto:** Proyecto de innovación en desarrollo web y diseño de sistemas informáticos.
